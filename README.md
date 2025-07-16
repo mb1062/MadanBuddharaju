@@ -1,7 +1,7 @@
 # 🌟 Madan Buddharaju – DevOps Engineer | Cloud Enthusiast | Automation Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gopalbraju)  
-📫 **Email**: madan.buddharaju@hotmail.com  
+📫 **Email**: connect_with_madan@proton.me  
 🔗 **GitHub**: [github.com/mb1062](https://github.com/mb1062)
 
 ---
@@ -45,7 +45,7 @@ Currently working at **CommScope India Pvt. Ltd.**, I lead initiatives in cloud 
 <br>
 ## 🤝 Let’s Connect!
 
-I'm always open to collaboration, learning, and new opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gopalbraju) or [Email](madan.buddharaju@hotmail.com).
+I'm always open to collaboration, learning, and new opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gopalbraju) or [Email](connect_with_madan@proton.me).
 
 <br>
 

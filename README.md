@@ -1,7 +1,7 @@
 # 🌟 Madan Buddharaju – DevOps Engineer | Cloud Enthusiast | Automation Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gopalbraju)  
-📫 **Email**: madan.buddharaju@gmail.com  
+📫 **Email**: madan.buddharaju@hotmail.com  
 🔗 **GitHub**: [github.com/mb1062](https://github.com/mb1062)
 
 ---
@@ -33,10 +33,19 @@ Currently working at **CommScope India Pvt. Ltd.**, I lead initiatives in cloud 
 - Designing **cost-optimized cloud architectures** and implementing **Azure AI bots**
 - Building **CI/CD pipelines** for microservices and containerized applications
 - Enhancing **infrastructure monitoring** and **post-migration performance tuning**
+
+### 🎓 Education & Certifications
+
+- **MBA in Entrepreneurship & Leadership** – Jain University (2024–2026)
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+- **Red Hat Certified System Administrator (RHCSA v8)**
+
+---
+
 <br>
 ## 🤝 Let’s Connect!
 
-I'm always open to collaboration, learning, and new opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gopalbraju) or email!
+I'm always open to collaboration, learning, and new opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gopalbraju) or [Email](madan.buddharaju@hotmail.com).
 
 <br>
 
